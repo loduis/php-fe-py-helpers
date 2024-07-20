@@ -1,0 +1,27 @@
+{
+    "name": "loduis/fepy-helpers",
+    "authors": [
+        {
+            "name": "Loduis Madariaga",
+            "email": "loduis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {
+        "php": "^8.0",
+        "loduis/support": "1.0"
+    },
+    "prefer-stable": true,
+    "prefer-dist": true,
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/loduis/php-support.git"
+        }
+    ]
+}
