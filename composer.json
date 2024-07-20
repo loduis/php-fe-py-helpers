@@ -13,7 +13,7 @@
     },
     "require": {
         "php": "^8.0",
-        "loduis/support": "1.0"
+        "loduis/support": "^1.0"
     },
     "prefer-stable": true,
     "prefer-dist": true,
